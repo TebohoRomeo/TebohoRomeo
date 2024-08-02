@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Teboho Lekhalo</h1>
 <h3 align="center">I Build things that lives on the internet</h3>
 
-- 🔭 I’m currently working on **Vision Digital Wallet**
-
-- 📫 How to reach me **teboholekhalo13@gmail.com**
+- 📫 GET IN TOUCH **teboholekhalo13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
